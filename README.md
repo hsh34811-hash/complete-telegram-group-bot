@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:16213e,100:0f3460&height=220&section=header&text=bot-assembly-Telegram&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=✘%20𝙍𝘼𝙑𝙀𝙉%20|%20@P_X_24&descAlignY=62&descSize=20&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:16213e,100:0f3460&height=220&section=header&text=complete-telegram-group-bot&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=✘%20𝙍𝘼𝙑𝙀𝙉%20|%20@P_X_24&descAlignY=62&descSize=20&animation=twinkling" />
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=700&lines=bot-assembly-Telegram+%F0%9F%A4%96;Full+Telegram+Group+Management+Bot;Ranks+%7C+Lock+%7C+Games+%7C+Replies;Built+by+%E2%9C%98+%F0%9D%99%8D%F0%9D%98%BC%F0%9D%99%91%F0%9D%99%80%F0%9D%99%89" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=700&lines=complete-telegram-group-bot+%F0%9F%A4%96;Full+Telegram+Group+Management+Bot;Ranks+%7C+Lock+%7C+Games+%7C+Replies;Built+by+%E2%9C%98+%F0%9D%99%8D%F0%9D%98%BC%F0%9D%99%91%F0%9D%99%80%F0%9D%99%89" />
 
 </div>
 
@@ -79,7 +79,7 @@
 **1. استنساخ المشروع**
 ```bash
 git clone https://github.com/hsh34811-hash/-.git
-cd -
+cd complete-telegram-group-bot
 ```
 
 **2. تثبيت المكتبات**
@@ -103,7 +103,7 @@ python main.py
 ## 🗂️ هيكل المشروع
 
 ```
-📁 bot-assembly-Telegram
+📁 complete-telegram-group-bot
 ├── 📄 main.py                      # نقطة الدخول الرئيسية
 ├── 📄 config.py                    # إعدادات البوت
 ├── 📄 database_main.py             # قاعدة البيانات الرئيسية
@@ -203,7 +203,7 @@ A full-featured Telegram group management bot with a multi-level rank system, co
 **1. Clone the repository**
 ```bash
 git clone https://github.com/hsh34811-hash/-.git
-cd -
+cd complete-telegram-group-bot
 ```
 
 **2. Install dependencies**
