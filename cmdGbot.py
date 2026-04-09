@@ -4,7 +4,7 @@ from database_main import *
 from functions_to_my_bots import *
 import messagesBots
 
-# bot = telebot.TeleBot("6160347428:AAFeSLUve3VIaJBfkdqFn7CEdzHpx3kkamU")
+
 
 
 button1 = InlineKeyboardButton("- م1", callback_data="bc1")
