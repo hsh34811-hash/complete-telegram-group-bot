@@ -1,0 +1,19 @@
+{
+  "name": "✘ 𝙍𝘼𝙑𝙀𝙉 | @P_X_24",
+  "description": "بوت مجموعات تيليجرام كامل",
+  "repository": "https://github.com/hsh34811-hash/-.git",
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "ضع هنا توكن البوت من @BotFather",
+      "value": ""
+    }
+  },
+  "scripts": {
+    "start": "python main.py"
+  }
+}

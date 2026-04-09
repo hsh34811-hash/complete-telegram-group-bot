@@ -1,0 +1,46 @@
+# =============================================
+# ✘ 𝙍𝘼𝙑𝙀𝙉 | @P_X_24
+# =============================================
+
+# متغيرات البيئة - لا ترفعها أبداً
+.env
+*.env
+
+# ملفات Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# بيئات افتراضية
+venv/
+env/
+ENV/
+.venv/
+
+# ملفات قواعد البيانات
+*.db
+*.db-journal
+*.db.bak
+*.db.dat
+*.db.dir
+
+# ملفات Sessions
+*.session
+*.session-journal
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# ملفات المحررات
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
